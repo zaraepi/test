@@ -1,0 +1,1183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Savoy Theme\n"
+"POT-Creation-Date: 2017-04-09 00:17+0200\n"
+"PO-Revision-Date: 2017-06-26 14:44+0200\n"
+"Last-Translator: Stanislav Versilov <stas.versilov@gmail.com>\n"
+"Language-Team: NordicMade\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: includes/theme-plugins\n"
+"X-Poedit-SearchPathExcluded-2: includes/tgmpa\n"
+"X-Poedit-SearchPathExcluded-3: includes/options\n"
+"X-Poedit-SearchPathExcluded-4: includes/visual-composer/elements\n"
+"X-Poedit-SearchPathExcluded-5: includes/visual-composer/params\n"
+"X-Poedit-SearchPathExcluded-6: includes/woocommerce/admin\n"
+"X-Poedit-SearchPathExcluded-7: includes/visual-composer/elements-config.php\n"
+"X-Poedit-SearchPathExcluded-8: includes/visual-composer/init.php\n"
+"X-Poedit-SearchPathExcluded-9: includes/widgets\n"
+"X-Poedit-SearchPathExcluded-10: woocommerce\n"
+
+#: 404.php:7
+msgid "Oops, page not found."
+msgstr "Упс, страница не найдена!"
+
+#: 404.php:8
+msgid ""
+"It looks like nothing was found at this location. Click the link below to "
+"return home."
+msgstr ""
+"Похоже, ничего не было найдено в этом месте. Нажмите на ссылку ниже, чтобы "
+"вернуться на главную."
+
+#: 404.php:9
+msgid "Homepage &nbsp;&nbsp;&rarr;"
+msgstr "Главная &nbsp;&nbsp;&rarr;"
+
+#: archive.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за День: %s"
+
+#: archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за Месяц: %s"
+
+#: archive.php:14
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за Год: %s"
+
+#: archive.php:16
+msgid "Archives"
+msgstr "Архивы"
+
+#: author.php:7
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архивы автора: %s"
+
+#: comments.php:18
+#, php-format
+msgctxt "comments title"
+msgid "One reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ответ на &ldquo;%2$s&rdquo;"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Новые Комментарии &rarr;"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-classic.php:48 content-grid.php:53 content-list.php:45 single.php:47
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-classic.php:57
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: content-classic.php:57
+msgid "1 comment"
+msgstr "1 комментарий"
+
+#: content-classic.php:57
+#, php-format
+msgid "% comments"
+msgstr "% Комментарии"
+
+#: content-grid.php:62
+msgid "More &nbsp;&rarr;"
+msgstr "Подробнее &nbsp;&rarr;"
+
+#: content-none.php:6
+#, php-format
+msgid "Ready to publish your first post? %sGet started here%s."
+msgstr "Готов опубликовать свой первый пост? %sНачните здесь%s."
+
+#: content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Простите, но ничего не соответствует вашим критериям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Не удаётся ничего найти по данному запросу."
+
+#: footer.php:100
+msgid "Search Products"
+msgstr "Поиск продуктов"
+
+#: footer.php:168 includes/woocommerce/woocommerce-template-functions.php:54
+msgid "Cart"
+msgstr "Корзина"
+
+#: footer.php:169
+msgid "Close"
+msgstr "Закрыть"
+
+#: functions.php:567
+msgid "Top Bar Menu"
+msgstr "Верхнее меню"
+
+#: functions.php:568
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: functions.php:569
+msgid "Right Menu"
+msgstr "Правое меню"
+
+#: functions.php:570
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: functions.php:636
+msgid "Pingback:"
+msgstr "Обратная ссылка"
+
+#: functions.php:636 functions.php:661
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:648
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:653
+msgid "Your comment is awaiting moderation"
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:751
+msgid "Categories"
+msgstr "Категории"
+
+#: functions.php:752 includes/translation-strings-dummy.php:60
+#: includes/woocommerce/woocommerce-template-functions.php:164
+msgid "All"
+msgstr "Все"
+
+#: functions.php:891
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:933 functions.php:942
+msgid "Shop"
+msgstr "Магазин"
+
+#: functions.php:954
+msgid "Footer"
+msgstr "Подвал сайта"
+
+#: functions.php:965
+msgid "Visual Composer - Widgetised Sidebar"
+msgstr "Визуальный редактор - Боковая панель с примочками"
+
+#: includes/custom-styles.php:539
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: includes/custom-styles.php:569
+msgid "Required field."
+msgstr "Обязательное поле."
+
+#: includes/translation-strings-dummy.php:7
+msgid "Shopping Cart"
+msgstr "Корзина"
+
+#: includes/translation-strings-dummy.php:8
+msgid "Enter coupon"
+msgstr "Введите купон"
+
+#: includes/translation-strings-dummy.php:11
+msgid "Payment"
+msgstr "Оплата"
+
+#: includes/translation-strings-dummy.php:14
+msgid "Updating&hellip;"
+msgstr "Обновление&hellip;"
+
+#: includes/translation-strings-dummy.php:17
+msgid "Load More"
+msgstr "Показать ещё"
+
+#: includes/translation-strings-dummy.php:18
+msgid "All products loaded."
+msgstr "Показаны все товары"
+
+#: includes/translation-strings-dummy.php:21
+msgid "Or"
+msgstr "Или"
+
+#: includes/translation-strings-dummy.php:22
+msgid "Create an account"
+msgstr "Создать аккаунт"
+
+#: includes/translation-strings-dummy.php:25
+msgid "Order Tracking"
+msgstr "Отслеживание заказа"
+
+#: includes/translation-strings-dummy.php:28
+msgid "Details"
+msgstr "Сведения"
+
+#: includes/translation-strings-dummy.php:31 single.php:11
+msgid "Share on Facebook"
+msgstr "Поделиться на Facebook"
+
+#: includes/translation-strings-dummy.php:32 single.php:12
+msgid "Share on Twitter"
+msgstr "Поделиться в Twitter"
+
+#: includes/translation-strings-dummy.php:33 single.php:13
+msgid "Pin on Pinterest"
+msgstr "Поделиться в Pinterest"
+
+#: includes/translation-strings-dummy.php:36
+msgid "Watch Video"
+msgstr "Смотреть видео"
+
+#: includes/translation-strings-dummy.php:39
+#, php-format
+msgid "press %sEnter%s to search"
+msgstr "Нажмите %sEnter%s для поиска"
+
+#: includes/translation-strings-dummy.php:42
+msgctxt "breadcrumb"
+msgid "Shop"
+msgstr "Магазин"
+
+#: includes/translation-strings-dummy.php:45
+#, php-format
+msgid "Filters active %s(%s)%s"
+msgstr "Фильтры активны %s(%s)%s"
+
+#: includes/translation-strings-dummy.php:46
+#, php-format
+msgid "Search results for %s&ldquo;%s&rdquo;%s"
+msgstr "Результаты поиска для %s&ldquo;%s&rdquo;%s"
+
+#: includes/translation-strings-dummy.php:47
+#, php-format
+msgid "Showing %s&ldquo;%s&rdquo;%s"
+msgstr "Показывать %s&ldquo;%s&rdquo;%s"
+
+#: includes/translation-strings-dummy.php:48
+#, php-format
+msgid "Products tagged %s&ldquo;%s&rdquo;%s"
+msgstr "Продукты с тегами %s&ldquo;%s&rdquo;%s"
+
+#: includes/translation-strings-dummy.php:51
+msgid "Filter Products"
+msgstr "Фильтр товаров"
+
+#: includes/translation-strings-dummy.php:52
+msgid "Reset Filters"
+msgstr "Сбросить фильтры"
+
+#: includes/translation-strings-dummy.php:55
+msgid "Show more"
+msgstr "Подробнее"
+
+#: includes/translation-strings-dummy.php:63
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/translation-strings-dummy.php:64
+msgid "Popularity"
+msgstr "Популярность"
+
+#: includes/translation-strings-dummy.php:65
+msgid "Average rating"
+msgstr "Средняя оценка"
+
+#: includes/translation-strings-dummy.php:66
+msgid "Newness"
+msgstr "Новизна"
+
+#: includes/translation-strings-dummy.php:67
+msgid "Price: Low to High"
+msgstr "Цена: сначала низкая"
+
+#: includes/translation-strings-dummy.php:68
+msgid "Price: High to Low"
+msgstr "Цена: сначала высокая"
+
+#: includes/visual-composer/element-templates/vc_toggle.php:6
+msgid "Click to toggle"
+msgstr "Нажмите для переключения"
+
+#: includes/visual-composer/page-templates.php:44
+msgid "About"
+msgstr "Описание"
+
+#: includes/visual-composer/page-templates.php:51
+msgid "Contact"
+msgstr "Контакты"
+
+#: includes/visual-composer/page-templates.php:58
+msgid "FAQ"
+msgstr "Вопрос и ответ"
+
+#: includes/visual-composer/shortcodes/button.php:6
+msgid "Button with Text"
+msgstr "Кнопка с текстом"
+
+#: includes/visual-composer/shortcodes/woocommerce/product-search.php:14
+msgid "Search store"
+msgstr "Поиск по товарам…"
+
+#: includes/woocommerce/woocommerce-functions.php:162
+#, php-format
+msgid "%s products"
+msgstr "%s продуктов"
+
+#: includes/woocommerce/woocommerce-functions.php:494
+msgid "Please fill in the required fields"
+msgstr "Пожалуйста, заполните необходимые поля"
+
+#: includes/woocommerce/woocommerce-template-functions.php:35
+msgid "My Account"
+msgstr "Мой Профиль"
+
+#: includes/woocommerce/woocommerce-template-functions.php:35
+msgid "Login"
+msgstr "Войти"
+
+#: includes/woocommerce/woocommerce-template-functions.php:228
+msgid "Back"
+msgstr "Назад"
+
+#: page.php:21
+msgid "Sorry, nothing to display."
+msgstr "Нет элементов для отображения."
+
+#: pagination.php:10
+msgid "Older Posts"
+msgstr "Предыдущие записи"
+
+#: pagination.php:13
+msgid "Newer Posts"
+msgstr "Новые записи"
+
+#: search.php:7
+#, php-format
+msgid "%s Search Results for: %s"
+msgstr "%s Результаты поиска для: %s"
+
+#: searchform.php:2
+msgid "Search .."
+msgstr "Поиск …"
+
+#: single.php:38
+msgid "By"
+msgstr "По"
+
+#: single.php:38
+msgid "on"
+msgstr "на"
+
+#: single.php:67
+msgid "Posted in "
+msgstr "Опубликовано в:"
+
+#: single.php:70
+msgid " and tagged "
+msgstr " и помеченный "
+
+#: single.php:78
+msgid "Tagged "
+msgstr "Теги: "
+
+#: single.php:88
+msgid "Share"
+msgstr "Поделиться"
+
+#: single.php:98
+msgid "&larr;&nbsp; Newer"
+msgstr "&larr; Новые"
+
+#: single.php:101
+msgid "Older &nbsp;&rarr;"
+msgstr "Старые &rarr;"
+
+#: single.php:172
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архивы по тегам: <span>%s</span>"
+
+#. Theme Name of the plugin/theme
+msgid "Savoy"
+msgstr "Savoy"
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/savoy-minimalist-ajax-woocommerce-theme/12537825"
+msgstr ""
+"http://themeforest.net/item/savoy-minimalist-ajax-woocommerce-theme/12537825"
+
+#. Description of the plugin/theme
+msgid "Savoy - Modern AJAX enabled WooCommerce theme."
+msgstr "Savoy - Modern AJAX enabled WooCommerce theme."
+
+#. Author of the plugin/theme
+msgid "NordicMade"
+msgstr "NordicMade"
+
+#. Author URI of the plugin/theme
+msgid "http://www.nordicmade.com"
+msgstr "http://www.nordicmade.com"
+
+#~ msgid "Enter Coupon"
+#~ msgstr "Введите купон"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr ""
+#~ "Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начните здесь</a>."
+
+#~ msgid "Register"
+#~ msgstr "Регистрация"
+
+#~ msgid ""
+#~ "Shows \"color\" attributes in a widget which lets you narrow down the "
+#~ "list of products when viewing products. "
+#~ msgstr ""
+#~ "Показывает атрибуты \"Цвет\" виджета, который позволяет сузить список "
+#~ "просматриваемых товаров."
+
+#~ msgid "WooCommerce Color Filter"
+#~ msgstr "WooCommerce Цветовой фильтр"
+
+#~ msgid "Color"
+#~ msgstr "Цвет"
+
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "Columns"
+#~ msgstr "Столбцы"
+
+#~ msgid "Query type"
+#~ msgstr "Тип запроса"
+
+#~ msgid "AND"
+#~ msgstr "И"
+
+#~ msgid "OR"
+#~ msgstr "ИЛИ"
+
+#~ msgid "Term"
+#~ msgstr "Выражение"
+
+#~ msgid ""
+#~ "Shows a price filter list in a widget which lets you narrow down the list "
+#~ "of shown products when viewing product categories."
+#~ msgstr ""
+#~ "Показывает в виджете фильтр по цене, который позволяет сузить список "
+#~ "отображаемых товаров при просмотре категорий товаров."
+
+#~ msgid "WooCommerce Price Filter List"
+#~ msgstr "WooCommerce Фильтр по цене"
+
+#~ msgid "Filter by price"
+#~ msgstr "Фильтр по цене"
+
+#~ msgid "Price range size"
+#~ msgstr "Размер диапазона цена"
+
+#~ msgid "Max price ranges"
+#~ msgstr "Максимальные ценовые диапазоны"
+
+#~ msgid "Hide empty price ranges"
+#~ msgstr "Скрыть пустые диапазоны цен"
+
+#~ msgid "Display a product sorting list."
+#~ msgstr "Отображение списка сортировки продуктов"
+
+#~ msgid "WooCommerce Product Sorting"
+#~ msgstr "WooCommerce Сортировка товара"
+
+#~ msgid "Sort By"
+#~ msgstr "Сортировать по"
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "Ваша корзина пока пуста."
+
+#~ msgid "Return To Shop"
+#~ msgstr "Вернуться в магазин"
+
+#~ msgid ""
+#~ "Shipping costs will be calculated once you have provided your address."
+#~ msgstr ""
+#~ "Стоимость доставки будет рассчитана как только вы укажете свой адрес."
+
+#~ msgid ""
+#~ "There are no shipping methods available. Please double check your "
+#~ "address, or contact us if you need any help."
+#~ msgstr ""
+#~ "Похоже, что нет доступных видов доставки. Проверьте свой адрес или "
+#~ "свяжитесь с нами."
+
+#~ msgid "Subtotal"
+#~ msgstr "Подитог"
+
+#~ msgid "Total"
+#~ msgstr "Итого"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr "(включая налог %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Указана примерная стоимость доставки и сумма налогов %s. Информация будет "
+#~ "обновлена на основании введенной вами информации об оплате и доставке."
+
+#~ msgid "Remove this item"
+#~ msgstr "Удалить этот товар"
+
+#~ msgid "Qty"
+#~ msgstr "Кол-во"
+
+#~ msgid "Available on backorder"
+#~ msgstr "Доступно для резервирования"
+
+#~ msgid "Summary"
+#~ msgstr "Аннотация"
+
+#~ msgid "Coupon"
+#~ msgstr "Купон"
+
+#~ msgid "Enter coupon code"
+#~ msgstr "Введите код купона"
+
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgid "Update Cart"
+#~ msgstr "Обновить корзину"
+
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "Вас также может заинтересовать&hellip;"
+
+#~ msgid "Updating .."
+#~ msgstr "Обновление .."
+
+#~ msgid "Continue Shopping"
+#~ msgstr "Продолжить покупки"
+
+#~ msgid "Qty:"
+#~ msgstr "Кол-во:"
+
+#~ msgid "Edit Cart"
+#~ msgstr "Изменить заказ"
+
+#~ msgid "Checkout"
+#~ msgstr "Оформить заказ"
+
+#~ msgid "Proceed to Checkout"
+#~ msgstr "Продолжить оформление заказа"
+
+#~ msgid "Calculate Shipping"
+#~ msgstr "Рассчитать доставку"
+
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Выберите страну&hellip;"
+
+#~ msgid "State / county"
+#~ msgstr "Область/регион"
+
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Выберите регион&hellip;"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Почтовый индекс"
+
+#~ msgid "Update Totals"
+#~ msgstr "Обновить итог"
+
+#~ msgid ""
+#~ "There are some issues with the items in your cart (shown above). Please "
+#~ "go back to the cart page and resolve these issues before checking out."
+#~ msgstr ""
+#~ "Возникли проблемы с товарами в вашей корзине (указаны выше). Просим "
+#~ "вернуться на страницу корзины и попытаться устранить эти проблемы до "
+#~ "оплаты."
+
+#~ msgid "Return To Cart"
+#~ msgstr "Вернуться в корзину"
+
+#~ msgid "Billing &amp; Shipping"
+#~ msgstr "Оплата и доставка"
+
+#~ msgid "Billing Details"
+#~ msgstr "Платёжная информация"
+
+#~ msgid "Create an account?"
+#~ msgstr "Создать аккаунт?"
+
+#~ msgid ""
+#~ "Create an account by entering the information below. If you are a "
+#~ "returning customer please login at the top of the page."
+#~ msgstr ""
+#~ "Создайте профиль, заполнив форму ниже. Если вы уже регистрировались ранее "
+#~ "— войдите по ссылке вверху страницы."
+
+#~ msgid "You must be logged in to checkout."
+#~ msgstr "Вам необходимо авторизоваться для оформления заказа."
+
+#~ msgid "Have a coupon?"
+#~ msgstr "У вас есть скидочный купон ?"
+
+#~ msgid "Enter your code &rarr;"
+#~ msgstr "Введите ваш код &rarr;"
+
+#~ msgid "Coupon code"
+#~ msgstr "Код купона"
+
+#~ msgid "Apply Coupon"
+#~ msgstr "Применить купон"
+
+#~ msgid "Returning customer?"
+#~ msgstr "Уже покупали у нас?"
+
+#~ msgid "Login &rarr;"
+#~ msgstr "Войти &rarr;"
+
+#~ msgid "&larr;&nbsp; Return to Checkout"
+#~ msgstr "&larr;&nbsp; Вернуться к оформлению заказа"
+
+#~ msgid ""
+#~ "If you have shopped with us before, please enter your details in the "
+#~ "boxes below. If you are a new customer please proceed to the Billing "
+#~ "&amp; Shipping section."
+#~ msgstr ""
+#~ "Если Вы раньше делали заказ, пожалуйста, введите имя пользователя и "
+#~ "пароль в полях снизу. Если Вы новый клиент, то, пожалуйста, заполните "
+#~ "раздел с информацией об оплате и доставке."
+
+#~ msgid "Unpaid Order"
+#~ msgstr "Неоплаченный заказ"
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "location. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr ""
+#~ "К сожалению, у нас не предусмотрены методы оплаты, подходящие для вашего "
+#~ "местоположения. Пожалуйста, свяжитесь с нами если вам необходима "
+#~ "консультация или специальные условия."
+
+#~ msgid "Additional Information"
+#~ msgstr "Дополнительная информация"
+
+#~ msgid "Shipping Details"
+#~ msgstr "Детали доставки"
+
+#~ msgid "Ship to a different address?"
+#~ msgstr "Доставка по другому адресу?"
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "state. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr ""
+#~ "К сожалению, у нас не предусмотрены методы оплаты, подходящие для вашего "
+#~ "местоположения. Пожалуйста, свяжитесь с нами если вам необходима "
+#~ "консультация или специальные условия."
+
+#~ msgid "Please fill in your details above to see available payment methods."
+#~ msgstr ""
+#~ "Пожалуйста, заполните свои данные, чтобы увидеть доступные методы "
+#~ "доставки."
+
+#~ msgid ""
+#~ "Since your browser does not support JavaScript, or it is disabled, please "
+#~ "ensure you click the <em>Update Totals</em> button before placing your "
+#~ "order. You may be charged more than the amount stated above if you fail "
+#~ "to do so."
+#~ msgstr ""
+#~ "Поскольку ваш браузер не поддерживает JavaScript или в нем он отключен, "
+#~ "просим убедиться в том, что вы нажали кнопку <em>Обновить итог</em> перед "
+#~ "регистрацией заказа. Иначе, есть риск неправильного подсчета стоимости."
+
+#~ msgid "Update totals"
+#~ msgstr "Обновить итого"
+
+#~ msgid "Your Order"
+#~ msgstr "Ваш Заказ"
+
+#~ msgid ""
+#~ "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms "
+#~ "&amp; conditions</a>"
+#~ msgstr ""
+#~ "Я прочитал и принимаю <a href=“%s” target=“_blank”>условия</a> магазина"
+
+#~ msgid ""
+#~ "Unfortunately your order cannot be processed as the originating bank/"
+#~ "merchant has declined your transaction."
+#~ msgstr ""
+#~ "К сожалению, ваш заказ не может быть обработан, т.к. банк-эмитент/"
+#~ "продавец отклонил транзакцию."
+
+#~ msgid "Please attempt your purchase again or go to your account page."
+#~ msgstr ""
+#~ "Пожалуйста, повторите покупку еще раз или перейдите на страницу вашей "
+#~ "учетной записи."
+
+#~ msgid "Please attempt your purchase again."
+#~ msgstr "Пожалуйста, повторите покупку снова."
+
+#~ msgid "Pay"
+#~ msgstr "Оплатить"
+
+#~ msgid "Thank you. Your order has been received."
+#~ msgstr "Спасибо. Ваш заказ был принят."
+
+#~ msgid "Order Number:"
+#~ msgstr "Номер Заказа:"
+
+#~ msgid "Date:"
+#~ msgstr "Дата:"
+
+#~ msgid "Total:"
+#~ msgstr "Всего:"
+
+#~ msgid "Payment Method:"
+#~ msgstr "Способ оплаты:"
+
+#~ msgid "Filter"
+#~ msgstr "Фильтр"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Search results for &ldquo;%s&rdquo;"
+#~ msgstr "Результат поиска: &ldquo;%s&rdquo;"
+
+#~ msgid "Showing &ldquo;%s&rdquo;"
+#~ msgstr "Показаны &ldquo;%s&rdquo;"
+
+#~ msgid "Products tagged &ldquo;%s&rdquo;"
+#~ msgstr "Товары с меткой &ldquo;%s&rdquo;"
+
+#~ msgctxt "breadcrumb"
+#~ msgid "Home"
+#~ msgstr "Главная"
+
+#~ msgid "Username or email"
+#~ msgstr "Имя пользователя или электронная почта"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Remember me"
+#~ msgstr "Запомнить меня"
+
+#~ msgid "Lost your password?"
+#~ msgstr "Забыли пароль?"
+
+#~ msgid "Quantity"
+#~ msgstr "Количество"
+
+#~ msgctxt "Product quantity input tooltip"
+#~ msgid "Qty"
+#~ msgstr "Кол-во [ Product quantity input tooltip ]"
+
+#~ msgid "No products were found matching your selection."
+#~ msgstr "Товаров, соответствующих вашему запросу, не обнаружено."
+
+#~ msgid "Showing the single result"
+#~ msgstr "Показать один результат"
+
+#~ msgid "Showing all %d results"
+#~ msgstr "Показаны все результаты: %d"
+
+#~ msgctxt "%1$d = first, %2$d = last, %3$d = total"
+#~ msgid "Showing %1$d&ndash;%2$d of %3$d results"
+#~ msgstr "Показано(ы) %1$d&ndash;%2$d из %3$d результата(ов)"
+
+#~ msgid "Sale!"
+#~ msgstr "Распродажа!"
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no payment methods which support adding a "
+#~ "new payment method. Please contact us if you require assistance or wish "
+#~ "to make alternate arrangements."
+#~ msgstr ""
+#~ "К сожалению, добавление нового метода оплаты не предусмотрено. "
+#~ "Пожалуйста, свяжитесь с нами если вам необходима консультация или "
+#~ "специальные условия."
+
+#~ msgid "Add Payment Method"
+#~ msgstr "Добавить метод оплаты"
+
+#~ msgid "Edit Account"
+#~ msgstr "Измените свой профиль"
+
+#~ msgid "First name"
+#~ msgstr "Имя"
+
+#~ msgid "Last name"
+#~ msgstr "Фамилия"
+
+#~ msgid "Email address"
+#~ msgstr "Эл. почта"
+
+#~ msgid "Password Change"
+#~ msgstr "Смена пароля"
+
+#~ msgid "Current Password (leave blank to leave unchanged)"
+#~ msgstr "Пароль (оставьте пустым, если не хотите его менять)"
+
+#~ msgid "New Password (leave blank to leave unchanged)"
+#~ msgstr "Новый пароль (оставьте пустым, чтобы оставить без изменений)"
+
+#~ msgid "Confirm New Password"
+#~ msgstr "Подтвердите новый пароль"
+
+#~ msgid "Save changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid "Billing Address"
+#~ msgstr "Реквизиты оплаты"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Адрес доставки"
+
+#~ msgid "Save Address"
+#~ msgstr "Сохранить адрес"
+
+#~ msgid "Username or email address"
+#~ msgstr "Имя пользователя или эл. почта"
+
+#~ msgid "Username"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "Anti-spam"
+#~ msgstr "Анти-спам"
+
+#~ msgid ""
+#~ "Please enter your username or email address. You will receive a link to "
+#~ "create a new password via email."
+#~ msgstr ""
+#~ "Пожалуйста, введите Ваш логин или адрес электронной почты. Вы получите "
+#~ "ссылку, чтобы создать новый пароль по электронной почте."
+
+#~ msgid "Enter a new password below."
+#~ msgstr "Введите новый пароль ниже."
+
+#~ msgid "New password"
+#~ msgstr "Новый пароль"
+
+#~ msgid "Re-enter new password"
+#~ msgstr "Повторите новый пароль ещё раз"
+
+#~ msgid "Reset Password"
+#~ msgstr "Сбросить пароль"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Hello %s."
+#~ msgstr "Привет %s."
+
+#~ msgid "Logout"
+#~ msgstr "Выход"
+
+#~ msgid ""
+#~ "From your account dashboard you can view your recent orders, manage your "
+#~ "shipping and billing addresses and <a href=\"%s\">edit your password and "
+#~ "account details</a>."
+#~ msgstr ""
+#~ "В вашем профиле вы можете просматривать недавние заказы, настроить адрес "
+#~ "доставки и реквизиты оплаты, а также <a href=«%s»>изменить пароль и "
+#~ "анкету</a>."
+
+#~ msgid "My Addresses"
+#~ msgstr "Мои Aдреса"
+
+#~ msgid "My Address"
+#~ msgstr "Мой адрес"
+
+#~ msgid ""
+#~ "The following addresses will be used on the checkout page by default."
+#~ msgstr ""
+#~ "Следующие адреса будут использованы при оформлении заказов по умолчанию."
+
+#~ msgid "You have not set up this type of address yet."
+#~ msgstr "Вы еще не создали этот тип адреса."
+
+#~ msgid "Available downloads"
+#~ msgstr "Доступные загрузки"
+
+#~ msgid "%s download remaining"
+#~ msgid_plural "%s downloads remaining"
+#~ msgstr[0] "осталась %s загрузка"
+#~ msgstr[1] "осталось %s загрузки"
+#~ msgstr[2] "осталось %s загрузок"
+
+#~ msgid "Order"
+#~ msgstr "Упорядочить"
+
+#~ msgid "Date"
+#~ msgstr "Дата создания:"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Recent Orders"
+#~ msgstr "Последние заказы"
+
+#~ msgid "%s for %s item"
+#~ msgid_plural "%s for %s items"
+#~ msgstr[0] "%s для %s товара"
+#~ msgstr[1] "%s для %s товаров"
+#~ msgstr[2] "%s для %s товаров"
+
+#~ msgid "View"
+#~ msgstr "Посмотреть"
+
+#~ msgid "Cancel"
+#~ msgstr "Отменить"
+
+#~ msgid ""
+#~ "Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+#~ "\"order-date\">%s</mark> and is currently <mark class=\"order-status\">"
+#~ "%s</mark>."
+#~ msgstr ""
+#~ "Заказ #<mark class=«order-number»>%s</mark>. Дата оформления: <mark "
+#~ "class=«order-date»>%s</mark>. Статус на данный момент: <mark class=«order-"
+#~ "status»>%s</mark>."
+
+#~ msgid "Order Updates"
+#~ msgstr "Обновления заказа"
+
+#~ msgid "l jS \\o\\f F Y, h:ia"
+#~ msgstr "l jS \\o\\f F Y, h:ia"
+
+#~ msgid ""
+#~ "To track your order please enter your Order ID in the box below and press "
+#~ "the \"Track\" button. This was given to you on your receipt and in the "
+#~ "confirmation email you should have received."
+#~ msgstr ""
+#~ "Для отслеживания вашего заказа, пожалуйста, введите номер вашего заказа в "
+#~ "поле ниже и нажмите кнопку “Отслеживание”. Вы найдёте его в квитанции, "
+#~ "которая была отправлена вам по электронной почте."
+
+#~ msgid "Order ID"
+#~ msgstr "Номер заказа"
+
+#~ msgid "Found in your order confirmation email."
+#~ msgstr "Находится в письме с подтверждением заказа"
+
+#~ msgid "Billing Email"
+#~ msgstr "Эл. почта для счетов"
+
+#~ msgid "Email you used during checkout."
+#~ msgstr "Эл. почта использованная при оформлении заказа"
+
+#~ msgid "Track"
+#~ msgstr "Отслеживание"
+
+#~ msgid "Order Again"
+#~ msgstr "Заказать снова"
+
+#~ msgid "Customer Details"
+#~ msgstr "Сведения о покупателе"
+
+#~ msgid "Note:"
+#~ msgstr "Примечание:"
+
+#~ msgid "Email:"
+#~ msgstr "Эл. почта:"
+
+#~ msgid "Telephone:"
+#~ msgstr "Телефонный номер, указавший отправитель - недействителен."
+
+#~ msgid "N/A"
+#~ msgstr "Не имеет"
+
+#~ msgid "Order Details"
+#~ msgstr "Информация по заказу # %s"
+
+#~ msgid "Order #%s"
+#~ msgstr "Закажите %s"
+
+#~ msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+#~ msgstr "Заказ #%s который был сделан %s имеет статус &quot;%s&quot;"
+
+#~ msgid "ago"
+#~ msgstr "назад"
+
+#~ msgid "and was completed"
+#~ msgstr "и был завершен"
+
+#~ msgid " ago"
+#~ msgstr "назад"
+
+#~ msgid "Search for:"
+#~ msgstr "Искать:"
+
+#~ msgctxt "placeholder"
+#~ msgid "Search Products&hellip;"
+#~ msgstr "Поиск товаров&hellip;"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Искать: [ label ]"
+
+#~ msgctxt "submit button"
+#~ msgid "Search"
+#~ msgstr "Поиск [ submit button ]"
+
+#~ msgid "press <u>Enter</u> to search"
+#~ msgstr "нажмите <u>Enter</u> для поиска"
+
+#~ msgid "Placeholder"
+#~ msgstr "Placeholder"
+
+#~ msgid "There are no reviews yet."
+#~ msgstr "Пока нет отзывов."
+
+#~ msgid "Add a review"
+#~ msgstr "Добавить отзыв"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Будьте первым, кто оставит отзыв"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "Ответить %s"
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Email"
+#~ msgstr "Эл. почта"
+
+#~ msgid "Submit"
+#~ msgstr "Подтвердить"
+
+#~ msgid "Your Rating"
+#~ msgstr "Ваш рейтинг"
+
+#~ msgid "Rate&hellip;"
+#~ msgstr "Оценка&hellip;"
+
+#~ msgid "Perfect"
+#~ msgstr "Превосходно"
+
+#~ msgid "Good"
+#~ msgstr "Хорошо"
+
+#~ msgid "Average"
+#~ msgstr "Средне"
+
+#~ msgid "Not that bad"
+#~ msgstr "Неплохо"
+
+#~ msgid "Very Poor"
+#~ msgstr "Очень плохо"
+
+#~ msgid "Your Review"
+#~ msgstr "Ваш отзыв"
+
+#~ msgid ""
+#~ "Only logged in customers who have purchased this product may leave a "
+#~ "review."
+#~ msgstr ""
+#~ "Только зарегистрированные клиенты, купившие этот товар, могут публиковать "
+#~ "отзывы."
+
+#~ msgid "This product is currently out of stock and unavailable."
+#~ msgstr "Этого товара в настоящее время нет в наличии"
+
+#~ msgid ""
+#~ "Sorry, this product is unavailable. Please choose a different combination."
+#~ msgstr ""
+#~ "Простите, но данного товара нет в наличии. Попробуйте другой вариант."
+
+#~ msgid "SKU:"
+#~ msgstr "Артикул:"
+
+#~ msgid "Category:"
+#~ msgid_plural "Categories:"
+#~ msgstr[0] "Категория:"
+#~ msgstr[1] ""
+#~ msgstr[2] ""
+
+#~ msgid "Tag:"
+#~ msgid_plural "Tags:"
+#~ msgstr[0] "Тег:"
+#~ msgstr[1] ""
+#~ msgstr[2] ""
+
+#~ msgid "Weight"
+#~ msgstr "Вес"
+
+#~ msgid "Dimensions"
+#~ msgstr "Размеры"
+
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Оценка %s из 5"
+
+#~ msgid "out of %s5%s"
+#~ msgstr "из %s5%s"
+
+#~ msgid "Related Products"
+#~ msgstr "Похожие товары"
+
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Ваш комментарий ожидает одобрения"
+
+#~ msgid "verified owner"
+#~ msgstr "проверенный владелец"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Рейтинг %d из 5"
+
+#~ msgid "out of 5"
+#~ msgstr "из 5"
+
+#~ msgid "You may also like&hellip;"
+#~ msgstr "Возможно, Вас заинтересует&hellip;"
